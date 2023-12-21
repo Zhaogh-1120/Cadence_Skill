@@ -1,0 +1,4 @@
+1、将LoadAllSkil.il文件放到home目录下。
+2、将mySKILL文件夹放到home目录下。
+3、在.cdsinit文件末尾增加如下语句：load("~/loadAllskill.il")
+4、重启virtuoso。
